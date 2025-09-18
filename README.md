@@ -9,7 +9,7 @@ $${\color{#882b2e}but \space what \space you \space choose \space in \space that
 
 
 <p align="center"> 
-  <img src=https://komarev.com/ghpvc/?username=kyoren&color=9a648d&label=tsugukos>
+  <img src=https://komarev.com/ghpvc/?username=taphy&color=9a648d&label=tsugukos>
 
 
 $${\color{#96b8b3}art \space cr: \space @Dreemurr_Chains \space , \space @p1nkmenace63 \space on \space x}$$
